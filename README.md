@@ -5,4 +5,3 @@ The paper includes a literature review of conventional and modern face recogniti
 
 This repository is useful for researchers, students, and developers interested in deep learning, computer vision, biometrics, and real-time application development.
 
-.
